@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "DotLinks",
+    "slug": "DotLinks",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.dotlinks"
+    },
+    "ios": {
+      "bundleIdentifier": "com.dotlinks"
+    }
+  },
+  "name": "DotLinks"
+}
